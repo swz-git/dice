@@ -1,7 +1,8 @@
 # dice
 A simple command line dice rolling application
 
-Outputs dice like this: ```
+Outputs dice like this: 
+```
 ╭─────╮
 │     │
 │  •  │
